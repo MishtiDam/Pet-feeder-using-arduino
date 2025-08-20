@@ -1,7 +1,7 @@
 # Projects 
 Arduino Pet Feeder
 
-An automated pet feeder built with Arduino that dispenses food at scheduled times.
+An automated pet feeder built with Arduino that dispenses food when it senses the pet nearby 
 
 ✨ Features
 
